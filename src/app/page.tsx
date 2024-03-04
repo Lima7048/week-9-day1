@@ -8,8 +8,9 @@ export default function Home() {
   return (
     <div className="h-screen">
       <UserButton />
+
+      <p className=" text-6xl text-justify text-lime-700">Hello world 🧝🏽‍♀️</p>
       <Popover />
-      <p>Hello world</p>
     </div>
   );
 }

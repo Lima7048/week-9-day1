@@ -7,7 +7,7 @@ const PopoverDemo = () => (
         <Popover.Trigger className="PopoverTrigger">More info</Popover.Trigger>
         <Popover.Portal>
             <Popover.Content className="PopoverContent" sideOffset={5}>
-                Some more info…
+                Some more info… You can find the full website @
                 <Popover.Arrow className="PopoverArrow" />
             </Popover.Content>
         </Popover.Portal>
